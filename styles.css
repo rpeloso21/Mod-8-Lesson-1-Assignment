@@ -1,0 +1,35 @@
+body {
+    font-family: 'Georgia', 'serif';
+}
+
+
+h1, h2 {
+    font-family: 'Times New Roman', 'serif';
+}
+
+header, footer {
+    background-color: bisque;
+}
+
+li {
+    padding: 2px;
+    margin: 5px;
+}
+.recipe {
+    border:2px solid black;
+    margin: 2px;
+    padding: 5px;
+}
+
+.important {
+    color:white;
+    background-color: black;
+}
+
+a:hover {
+    color: red;
+}
+
+footer > p {
+    text-shadow: white 1px 0 10px;
+}

@@ -1,0 +1,15 @@
+input {
+    margin: 15px;
+}
+
+textarea {
+    margin: 15px;
+}
+
+button {
+    margin: 15px;
+}
+
+button:hover {
+    color: red;
+}
